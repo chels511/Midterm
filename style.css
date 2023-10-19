@@ -239,12 +239,8 @@
 	background-size: cover;
 	background-position: center;
 	vertical-align: middle;
-<<<<<<< HEAD
-    margin-right: 10px; 
-=======
-    margin-right: 10px;
->>>>>>> 0e694a59043e78a6ebb21ee23d51a327264e7c09
-    overflow: hidden;
+        margin-right: 10px;
+        overflow: hidden;
 }
 #flags{
 	width: 5vh;
