@@ -62,6 +62,7 @@
 	background: url("zoro.gif");
 	background-size: cover;
 	background-position: center;
+	overflow: hidden;
 }
 
 #page1 header{
@@ -119,6 +120,7 @@
 	background-position: center;
     vertical-align: middle;
     margin-right: 10px; 
+    overflow: hidden;
 }
 #flags{
 	width: 5vh;
@@ -176,6 +178,7 @@
 	background-position: center;
 	vertical-align: middle;
     margin-right: 10px; 
+    overflow: hidden;
 }
 #flags{
 	width: 5vh;
@@ -232,7 +235,8 @@
 	background-size: cover;
 	background-position: center;
 	vertical-align: middle;
-    margin-right: 10px; 
+    margin-right: 10px;
+    overflow: hidden;
 }
 #flags{
 	width: 5vh;
@@ -291,6 +295,7 @@
 	background-position: center;
 	vertical-align: middle;
     margin-right: 10px; 
+    overflow: hidden;
 }
 #flags{
 	width: 5vh;
