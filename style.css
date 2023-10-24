@@ -347,7 +347,10 @@
 }
 
 #comic{
-	width: 30vh;
+	width: calc(100% - 25px);
+	display: flex;
+	justify-content: space-between;
+	margin-right: 30px;
 	overflow: hidden;
     transition: transform 0.3s;
     background-color: #333;
