@@ -24,30 +24,35 @@
 	padding: 0;
 	box-sizing: border-box;
 	font-family: "Comic", sans-serif;
+	font-size: 20px;
 }
 #page2{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	font-family: "Comic", sans-serif;
+	font-size: 20px;
 }
 #page3{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	font-family: "Comic", sans-serif;
+	font-size: 20px;
 }
 #page4{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	font-family: "Comic", sans-serif;
+	font-size: 20px;
 }
 #page5{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	font-family: "Comic", sans-serif;
+	font-size: 20px;
 }
 #page2 h3{
 	font-family: "Permanent Marker", sans-serif;
@@ -128,6 +133,10 @@
 }
 #flags{
 	width: 5vh;
+	transition: transform 0.3s;
+}
+#flags:hover{
+	transform: scale(1.1);
 }
 #page2 header{
 	position: relative;
